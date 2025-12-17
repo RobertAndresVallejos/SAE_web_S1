@@ -8,7 +8,7 @@ Ce projet avait pour particularité de combiner trois matières principales :
 - La communication
 - L'économie, la gestion et le droit
 
-Travail de groupe effectué à trois. (Note : une personne souhaitant garder son identité anonyme, son CV et sa photo **ont été ignorées** à l'aide de `.gitignore`.)
+Travail de groupe effectué à trois. (Note : une personne souhaitant garder son identité anonyme, son CV et sa photo ont été ignorés à l'aide de `.gitignore`.)
 
 ## Langages utilisés
 - HTML
@@ -17,12 +17,3 @@ Travail de groupe effectué à trois. (Note : une personne souhaitant garder son
 
 ## Outil utilisé
 - Visual Studio Code
-
-## Étapes d'exécution
-
-Pour lancer le site localement :
-1. Cliquez sur le bouton vert "**<> Code**".
-2. Cliquez sur "**Download ZIP**" (puis dézippez le dossier).
-3. Ouvrez le dossier du projet.
-4. Double-cliquez sur un fichier finissant par **.html**
-5. Vous pouvez ensuite naviguer sur le site à votre guise.
